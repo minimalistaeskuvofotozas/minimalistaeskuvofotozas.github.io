@@ -1955,6 +1955,29 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rzUl3NyyTD {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rzUl3NyyTD .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rzUl3NyyTD .section-text {
+  padding: 2rem 0;
+}
+.cid-rzUl3NyyTD .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rzUl3NyyTD .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rtGg7UFvpb {
   padding-top: 90px;
   padding-bottom: 90px;
